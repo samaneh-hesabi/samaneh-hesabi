@@ -1,16 +1,17 @@
-## Hi there 👋
+## Samaneh Hesabi, Ph.D.  &nbsp;&nbsp;&nbsp;   [![Linkedin](https://img.shields.io/badge/-blue?label=Linkedin&style=social&logo=Linkedin)](https://www.linkedin.com/in/samaneh-hesabi/)   [![Google Scholar](https://img.shields.io/badge/-red?label=Google%20Scholar&style=social&logo=Google%20Scholar)](https://scholar.google.com/citations?user=NeEE6e8AAAAJ&hl=en)        
 
-<!--
-**samaneh-hesabi/samaneh-hesabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Physics, Ph.D. | Data sience| Data analyst  
 
-Here are some ideas to get you started:
+## Skills 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Skills | Technologies  |
+| :--- | :--- |
+| Machine Learning | [![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat-square&logo=scikit-learn&color=353535)](https://scikit-learn.org/) |
+| Cloud Platforms | [![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat-square&logo=Amazon-AWS&color=353535)](https://aws.amazon.com/)  [![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat-square&logo=Microsoft-Azure&color=353535)](https://azure.microsoft.com/)  [![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-05122A?style=flat-square&logo=Google-Cloud&color=353535)](https://cloud.google.com/)  | 
+| Pkg / Env Managers| [![Conda](https://img.shields.io/badge/-Conda-05122A?style=flat-square&logo=anaconda&color=353535)](https://docs.conda.io/)  [![Venv](https://img.shields.io/badge/-Venv-05122A?style=flat-square&logo=python&color=353535)](https://docs.python.org/3/library/venv.html)  [![virtualenv](https://img.shields.io/badge/-virtualenv-05122A?style=flat-square&logo=python&color=353535)](https://virtualenv.pypa.io/)  [![pip](https://img.shields.io/badge/-pip-05122A?style=flat-square&logo=python&color=353535)](https://pip.pypa.io/)|
+| Python |  [![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535)](https://www.python.org/)  [![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535)](https://pandas.pydata.org/)  [![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=NumPy&color=353535)](https://numpy.org/)  [![Statsmodels](https://img.shields.io/badge/-Statsmodels-05122A?style=flat-square&logo=Python&color=353535)](https://www.statsmodels.org/) |
+| SQL |  [![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535)](https://www.mysql.com/)   [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535)](https://www.postgresql.org/)  [![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat-square&logo=microsoft-sql-server&color=353535)](https://www.microsoft.com/en-us/sql-server) |
+| R  | [![R](https://img.shields.io/badge/-R-05122A?style=flat-square&logo=R&color=353535)](https://www.r-project.org/)   [![dplyr](https://img.shields.io/badge/-dplyr-05122A?style=flat-square&logo=R&color=353535)](https://dplyr.tidyverse.org/)   [![caret](https://img.shields.io/badge/-caret-05122A?style=flat-square&logo=R&color=353535)](https://topepo.github.io/caret/index.html)   [![ggplot2](https://img.shields.io/badge/-ggplot2-05122A?style=flat-square&logo=R&color=353535)](https://ggplot2.tidyverse.org/)   |
+| Git |  [![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535)](https://git-scm.com/)   [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=GitHub&color=353535)](https://github.com/)   [![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat-square&logo=GitLab&color=353535)](https://gitlab.com/)  |
+| Visualization | [![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Python&color=353535)](https://matplotlib.org/)   [![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat-square&logo=Python&color=353535)](https://seaborn.pydata.org/) |
+| Editors |  [![Cursor](https://img.shields.io/badge/-Cursor-05122A?style=flat-square&logo=cursor&color=353535)](https://cursor.sh/)  [![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat-square&logo=Visual%20Studio%20Code&color=353535)](https://code.visualstudio.com/)   [![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat-square&logo=Google%20Colab&color=353535)](https://colab.research.google.com/)  [![JupyterLab](https://img.shields.io/badge/-JupyterLab-05122A?style=flat-square&logo=Jupyter&color=353535)](https://jupyter.org/)   [![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat-square&logo=Jupyter&color=353535)](https://jupyter.org/)   [![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat-square&logo=PyCharm&color=353535)](https://www.jetbrains.com/pycharm/)  |
