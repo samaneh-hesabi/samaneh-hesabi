@@ -1,6 +1,6 @@
 ## Samaneh Hesabi, Ph.D.  &nbsp;&nbsp;&nbsp;   [![Linkedin](https://img.shields.io/badge/-blue?label=Linkedin&style=social&logo=Linkedin)](https://www.linkedin.com/in/samaneh-hesabi/)   [![Google Scholar](https://img.shields.io/badge/-red?label=Google%20Scholar&style=social&logo=Google%20Scholar)](https://scholar.google.com/citations?user=NeEE6e8AAAAJ&hl=en)        
 
-### Physics, Ph.D. | Data sience| Data analyst  
+### Data scientist | Ph.D. in Physics 
 
 ## Skills 
 
